@@ -28,7 +28,5 @@
 1. Pour into a warm fondue pot and keep warm over low heat.
 1. Garnish with the scallions.
 
-
-
 ---
 [Home](../)

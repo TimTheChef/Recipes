@@ -6,6 +6,7 @@
 
 ## Dessert
 - [Chocolate Chip Cookies](Dessert/ChocolateChipCookies.md) (Cookie)
+- [Carol's Cinnamon Waffles](Dessert/CarolsCinnamonWaffles.md) (Waffles)
 
 ## Fondue
 - [Bourbon Bacon Cheddar Fondue](Fondue/BourbonBaconCheddarFondue.md) (Bacon, Cheddar, Untried)
