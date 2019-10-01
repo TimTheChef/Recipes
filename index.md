@@ -6,3 +6,6 @@
 
 ## Dessert
 - [Chocolate Chip Cookies](Dessert/ChocolateChipCookies.md) (Cookie)
+
+## Fondue
+- [Bourbon Bacon Cheddar Fondue](Fondue/BourbonBaconCheddarFondue.md) (Bacon, Cheddar, Untried)
