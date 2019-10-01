@@ -13,6 +13,7 @@
 
 ## Fondue
 - [Bourbon Bacon Cheddar Fondue](Fondue/BourbonBaconCheddarFondue.md) (Bacon, Cheddar, Untried)
+- [Cheddar Fondue](Fondue/CheddarFondue.md) (Cheddar)
 
 ## Drinks
-- [Chai Tea](Drink/) (Tea, Untried
+- [Chai Tea](Drink/) (Tea, Untried)
