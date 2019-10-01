@@ -4,6 +4,9 @@
 - [Baked Cajun Chicken Breasts](Dinner/BakedCajunChickenBreasts.md) (Low Carb, Chicken, Untried)
 - [Beef Stroganoff](Dinner/BeefStroganoff.md) (Beef, Untried)
 
+## Side Dishes
+- [Cauliflower Rice](SideDish/CauliflowerRice.md) (Cauliflower, Untried)
+
 ## Dessert
 - [Chocolate Chip Cookies](Dessert/ChocolateChipCookies.md) (Cookie)
 - [Carol's Cinnamon Waffles](Dessert/CarolsCinnamonWaffles.md) (Waffles)
