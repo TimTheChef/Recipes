@@ -3,6 +3,7 @@
 ## Dinner
 - [Baked Cajun Chicken Breasts](Dinner/BakedCajunChickenBreasts.md) (Low Carb, Chicken, Untried)
 - [Beef Stroganoff](Dinner/BeefStroganoff.md) (Beef, Untried)
+- [Chicken Veggie Soup](Dinner/ChickenVeggieSoup.md) (Low Carb, Chicken, Soup)
 
 ## Side Dishes
 - [Cauliflower Rice](SideDish/CauliflowerRice.md) (Cauliflower, Untried)
