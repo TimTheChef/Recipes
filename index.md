@@ -7,6 +7,7 @@
 - [Firecracker Casserole](Dinner/FirecrackerCasserole.md) (Beef, Cheddar, Untried)
 - [Gnocchi With Sage Butter Sauce](Dinner/GnocchiWithSageButterSauce.md) (Potato, Untried)
 - [Spinach Stuffed Chicken Breasts](Dinner/SpinachStuffedChickenBreasts.md) (Low Carb, Chicken)
+- [BBQ Chicken Biscuit Sandwiches](Dinner/BBQChickenBiscuitSandwiches.md) (Chicken)
 
 ## Side Dishes
 - [Cauliflower Rice](SideDish/CauliflowerRice.md) (Cauliflower, Untried)
