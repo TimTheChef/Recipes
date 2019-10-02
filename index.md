@@ -18,6 +18,7 @@
 ## Fondue
 - [Bourbon Bacon Cheddar Fondue](Fondue/BourbonBaconCheddarFondue.md) (Bacon, Cheddar, Untried)
 - [Cheddar Fondue](Fondue/CheddarFondue.md) (Cheddar)
+- [Court Bouillon Cooking Style](Fondue/CourtBouillonCookingStyle.md) (Broth, Untried)
 
 ## Drinks
 - [Chai Tea](Drink/) (Tea, Untried)
