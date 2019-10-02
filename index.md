@@ -21,6 +21,7 @@
 - [Carol's Cinnamon Waffles](Dessert/CarolsCinnamonWaffles.md) (Waffles)
 - [Chocolate Crinkles](Dessert/ChocolateCrinkles.md) (Cookies)
 - [Dole Whip](Dessert/DoleWhip.md) (Pineapple, Untried)
+- [Treasure Island Cookies](Dessert/TreasureIslandCookies.md) (Cookies)
 
 ## Fondue
 - [Bourbon Bacon Cheddar Fondue](Fondue/BourbonBaconCheddarFondue.md) (Bacon, Cheddar, Untried)
