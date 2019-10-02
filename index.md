@@ -11,6 +11,7 @@
 - [Beef Stroganoff, Instapot](Dinner/BeefStroganoffInstapot.md) (Instapod, Beef)
 - [Italian Sausage Cheese Balls](Dinner/ItalianSausageCheeseBalls.md) (Sausage, Untried)
 - [Meatballs](Dinner/Meatballs.md) (Beef)
+- [No Bean Chili](Dinner/NoBeanChili.md) (Low Carb, Beef)
 
 ## Side Dishes
 - [Cauliflower Rice](SideDish/CauliflowerRice.md) (Cauliflower, Untried)
