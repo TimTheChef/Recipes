@@ -10,6 +10,7 @@
 - [BBQ Chicken Biscuit Sandwiches](Dinner/BBQChickenBiscuitSandwiches.md) (Chicken)
 - [Beef Stroganoff, Instapot](Dinner/BeefStroganoffInstapot.md) (Instapod, Beef)
 - [Italian Sausage Cheese Balls](Dinner/ItalianSausageCheeseBalls.md) (Sausage, Untried)
+- [Meatballs](Dinner/Meatballs.md) (Beef)
 
 ## Side Dishes
 - [Cauliflower Rice](SideDish/CauliflowerRice.md) (Cauliflower, Untried)
