@@ -28,6 +28,7 @@
 - [Carol's Cinnamon Waffles](Dessert/CarolsCinnamonWaffles.md) (Waffles)
 - [Chocolate Crinkles](Dessert/ChocolateCrinkles.md) (Cookies)
 - [Dole Whip](Dessert/DoleWhip.md) (Pineapple, Untried)
+- [Snickerdoodles](Dessert/Snickerdoodles.md) (Cookies)
 - [Treasure Island Cookies](Dessert/TreasureIslandCookies.md) (Cookies)
 
 ## Fondue
