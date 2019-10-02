@@ -1,5 +1,7 @@
 # Spinach Stuffed Chicken Breasts
 
+![](Images/SpinachStuffedChickenBreasts001.jpg "Spinach Stuffed Chicken Breasts")
+
 ## Ingredients
 - 3 chicken breasts
 - 8 oz chopped frozen spinach cooked according to package directions and squeezed dry.
