@@ -16,7 +16,8 @@
 - [Parmesan Mayonnaise Chicken](MainDish/ParmesanMayonnaiseChicken.md) (Chicken)
 - [Quick Gnocchi](MainDish/QuickGnocchi.md) (Potato, Untried)
 - [Simply Delicious Pork](MainDish/SimplyDeliciousPork.md) (Pork, Apples, Slow Cooker)
-- [Slow Cooker Chicken Stroganoff](SlowCookerChickenStroganoff.md) (Chicken, Slow Cooker)
+- [Slow Cooker Chicken Stroganoff](MainDish/SlowCookerChickenStroganoff.md) (Chicken, Slow Cooker)
+- [Spaghetti Carbonara](MainDish/SpaghettiCarbonara.md) (Bacon, Untried)
 
 ## Side Dishes
 - [Cauliflower Rice](SideDish/CauliflowerRice.md) (Cauliflower, Untried)
