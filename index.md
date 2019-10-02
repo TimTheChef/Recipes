@@ -5,6 +5,7 @@
 - [Beef Stroganoff](Dinner/BeefStroganoff.md) (Beef, Untried)
 - [Chicken Veggie Soup](Dinner/ChickenVeggieSoup.md) (Low Carb, Chicken, Soup)
 - [Firecracker Casserole](Dinner/FirecrackerCasserole.md) (Beef, Cheddar, Untried)
+- [Gnocchi With Sage Butter Sauce](Dinner/GnocchiWithSageButterSauce.md) (Potato, Untried)
 - [Spinach Stuffed Chicken Breasts](Dinner/SpinachStuffedChickenBreasts.md) (Low Carb, Chicken)
 
 ## Side Dishes
