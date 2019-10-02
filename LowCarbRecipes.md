@@ -2,6 +2,7 @@
 
 ## Main Dishes
 - [Baked Cajun Chicken Breasts](MainDish/BakedCajunChickenBreasts.md) (Low Carb, Chicken, Untried)
+- [Chicken Pot Pie](ChickenPotPie.md) (Low Carb, Chicken, Untried)
 - [Chicken Veggie Soup](MainDish/ChickenVeggieSoup.md) (Low Carb, Chicken, Soup)
 - [No Bean Chili](MainDish/NoBeanChili.md) (Low Carb, Beef)
 - [Parmesan And Basil MainDish Salad](MainDish/ParmesanAndBasilChickenSalad.md) (Low Carb, Chicken, Untried)

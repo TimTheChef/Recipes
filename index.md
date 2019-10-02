@@ -8,6 +8,7 @@
 - [Beef Stroganoff](MainDish/BeefStroganoff.md) (Beef, Untried)
 - [Beef Stroganoff, Instapot](MainDish/BeefStroganoffInstapot.md) (Instapod, Beef)
 - [Blue Bayou Gumbo](MainDish/BlueBayouGumbo.md) (Large Quanity, Chicken, Disneyland)
+- [Chicken Pot Pie](ChickenPotPie.md) (Low Carb, Chicken, Untried)
 - [Chicken Veggie Soup](MainDish/ChickenVeggieSoup.md) (Low Carb, Chicken, Soup)
 - [Firecracker Casserole](MainDish/FirecrackerCasserole.md) (Beef, Cheddar, Untried)
 - [Gnocchi With Sage Butter Sauce](MainDish/GnocchiWithSageButterSauce.md) (Potato, Untried)
