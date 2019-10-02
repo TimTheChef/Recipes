@@ -6,6 +6,7 @@
 - [Chicken Veggie Soup](MainDish/ChickenVeggieSoup.md) (Low Carb, Chicken, Soup)
 - [No Bean Chili](MainDish/NoBeanChili.md) (Low Carb, Beef)
 - [Parmesan And Basil MainDish Salad](MainDish/ParmesanAndBasilChickenSalad.md) (Low Carb, Chicken, Untried)
+- [Pickle Brined Fried Chicken](MainDish/PickleBrinedFriedChicken.md) (Low Carb, Chicken, Untried)
 - [Spinach Stuffed Chicken Breasts](MainDish/SpinachStuffedChickenBreasts.md) (Low Carb, Chicken)
 
 ## Side Dishes

@@ -17,6 +17,7 @@
 - [No Bean Chili](MainDish/NoBeanChili.md) (Low Carb, Beef)
 - [Parmesan And Basil MainDish Salad](MainDish/ParmesanAndBasilChickenSalad.md) (Low Carb, Chicken, Untried)
 - [Parmesan Mayonnaise Chicken](MainDish/ParmesanMayonnaiseChicken.md) (Chicken)
+- [Pickle Brined Fried Chicken](MainDish/PickleBrinedFriedChicken.md) (Low Carb, Chicken, Untried)
 - [Quick Gnocchi](MainDish/QuickGnocchi.md) (Potato, Untried)
 - [Simply Delicious Pork](MainDish/SimplyDeliciousPork.md) (Pork, Apples, Slow Cooker)
 - [Slow Cooker Chicken Stroganoff](MainDish/SlowCookerChickenStroganoff.md) (Chicken, Slow Cooker)
