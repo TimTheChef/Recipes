@@ -18,6 +18,7 @@
 - [Simply Delicious Pork](MainDish/SimplyDeliciousPork.md) (Pork, Apples, Slow Cooker)
 - [Slow Cooker Chicken Stroganoff](MainDish/SlowCookerChickenStroganoff.md) (Chicken, Slow Cooker)
 - [Spaghetti Carbonara](MainDish/SpaghettiCarbonara.md) (Bacon, Untried)
+- [Spicy Texas Chili](MainDish/SpicyTexasChili.md) (Beef, Untried)
 
 ## Side Dishes
 - [Cauliflower Rice](SideDish/CauliflowerRice.md) (Cauliflower, Untried)
