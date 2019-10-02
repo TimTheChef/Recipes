@@ -9,6 +9,7 @@
 - [Spinach Stuffed Chicken Breasts](Dinner/SpinachStuffedChickenBreasts.md) (Low Carb, Chicken)
 - [BBQ Chicken Biscuit Sandwiches](Dinner/BBQChickenBiscuitSandwiches.md) (Chicken)
 - [Beef Stroganoff, Instapot](Dinner/BeefStroganoffInstapot.md) (Instapod, Beef)
+- [Italian Sausage Cheese Balls](Dinner/ItalianSausageCheeseBalls.md) (Sausage, Untried)
 
 ## Side Dishes
 - [Cauliflower Rice](SideDish/CauliflowerRice.md) (Cauliflower, Untried)
