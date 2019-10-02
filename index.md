@@ -16,6 +16,7 @@
 ## Side Dishes
 - [Cauliflower Rice](SideDish/CauliflowerRice.md) (Cauliflower, Untried)
 - [Corn Dip](SideDish/CornDip.md) (Corn, Untried)
+- [Orange Spice Glazed Carrots](SideDish/OrangeSpiceGlazedCarrots.md) (Carrots)
 
 ## Dessert
 - [Chocolate Chip Cookies](Dessert/ChocolateChipCookies.md) (Cookie)
