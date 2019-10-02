@@ -15,7 +15,8 @@
 - [Parmesan And Basil MainDish Salad](MainDish/ParmesanAndBasilChickenSalad.md) (Low Carb, Chicken, Untried)
 - [Parmesan Mayonnaise Chicken](MainDish/ParmesanMayonnaiseChicken.md) (Chicken)
 - [Quick Gnocchi](MainDish/QuickGnocchi.md) (Potato, Untried)
-- [Simply Delicious Pork](MainDish/SimplyDeliciousPork.md) (Pork, Apples)
+- [Simply Delicious Pork](MainDish/SimplyDeliciousPork.md) (Pork, Apples, Slow Cooker)
+- [Slow Cooker Chicken Stroganoff](SlowCookerChickenStroganoff.md) (Chicken, Slow Cooker)
 
 ## Side Dishes
 - [Cauliflower Rice](SideDish/CauliflowerRice.md) (Cauliflower, Untried)
