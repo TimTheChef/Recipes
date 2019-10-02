@@ -1,18 +1,18 @@
 # Recipes
 
-## Dinner
-- [Baked Cajun Chicken Breasts](Dinner/BakedCajunChickenBreasts.md) (Low Carb, Chicken, Untried)
-- [Beef Stroganoff](Dinner/BeefStroganoff.md) (Beef, Untried)
-- [Chicken Veggie Soup](Dinner/ChickenVeggieSoup.md) (Low Carb, Chicken, Soup)
-- [Firecracker Casserole](Dinner/FirecrackerCasserole.md) (Beef, Cheddar, Untried)
-- [Gnocchi With Sage Butter Sauce](Dinner/GnocchiWithSageButterSauce.md) (Potato, Untried)
-- [Spinach Stuffed Chicken Breasts](Dinner/SpinachStuffedChickenBreasts.md) (Low Carb, Chicken)
-- [BBQ Chicken Biscuit Sandwiches](Dinner/BBQChickenBiscuitSandwiches.md) (Chicken)
-- [Beef Stroganoff, Instapot](Dinner/BeefStroganoffInstapot.md) (Instapod, Beef)
-- [Italian Sausage Cheese Balls](Dinner/ItalianSausageCheeseBalls.md) (Sausage, Untried)
-- [Meatballs](Dinner/Meatballs.md) (Beef)
-- [No Bean Chili](Dinner/NoBeanChili.md) (Low Carb, Beef)
-- [Parmesan And Basil Chicken Salad](Dinner/ParmesanAndBasilChickenSalad.md) (Low Carb, Chicken, Untried)
+## Main Dishes
+- [Baked Cajun Chicken Breasts](MainDish/BakedCajunChickenBreasts.md) (Low Carb, Chicken, Untried)
+- [Beef Stroganoff](MainDish/BeefStroganoff.md) (Beef, Untried)
+- [Chicken Veggie Soup](MainDish/ChickenVeggieSoup.md) (Low Carb, Chicken, Soup)
+- [Firecracker Casserole](MainDish/FirecrackerCasserole.md) (Beef, Cheddar, Untried)
+- [Gnocchi With Sage Butter Sauce](MainDish/GnocchiWithSageButterSauce.md) (Potato, Untried)
+- [Spinach Stuffed Chicken Breasts](MainDish/SpinachStuffedChickenBreasts.md) (Low Carb, Chicken)
+- [BBQ Chicken Biscuit Sandwiches](MainDish/BBQChickenBiscuitSandwiches.md) (Chicken)
+- [Beef Stroganoff, Instapot](MainDish/BeefStroganoffInstapot.md) (Instapod, Beef)
+- [Italian Sausage Cheese Balls](MainDish/ItalianSausageCheeseBalls.md) (Sausage, Untried)
+- [Meatballs](MainDish/Meatballs.md) (Beef)
+- [No Bean Chili](MainDish/NoBeanChili.md) (Low Carb, Beef)
+- [Parmesan And Basil MainDish Salad](Dinner/ParmesanAndBasilChickenSalad.md) (Low Carb, Chicken, Untried)
 
 ## Side Dishes
 - [Cauliflower Rice](SideDish/CauliflowerRice.md) (Cauliflower, Untried)
