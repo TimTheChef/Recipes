@@ -13,7 +13,8 @@
 - [Meatballs](MainDish/Meatballs.md) (Beef)
 - [No Bean Chili](MainDish/NoBeanChili.md) (Low Carb, Beef)
 - [Parmesan And Basil MainDish Salad](MainDish/ParmesanAndBasilChickenSalad.md) (Low Carb, Chicken, Untried)
-- [Parmesan Mayonnaise Chicken](MainDish/ParmesanMayonnaiseChicken.md)
+- [Parmesan Mayonnaise Chicken](MainDish/ParmesanMayonnaiseChicken.md) (Chicken)
+- [Quick Gnocchi](MainDish/QuickGnocchi.md) (Potato, Untried)
 
 ## Side Dishes
 - [Cauliflower Rice](SideDish/CauliflowerRice.md) (Cauliflower, Untried)
