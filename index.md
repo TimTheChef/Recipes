@@ -12,7 +12,8 @@
 - [Italian Sausage Cheese Balls](MainDish/ItalianSausageCheeseBalls.md) (Sausage, Untried)
 - [Meatballs](MainDish/Meatballs.md) (Beef)
 - [No Bean Chili](MainDish/NoBeanChili.md) (Low Carb, Beef)
-- [Parmesan And Basil MainDish Salad](Dinner/ParmesanAndBasilChickenSalad.md) (Low Carb, Chicken, Untried)
+- [Parmesan And Basil MainDish Salad](MainDish/ParmesanAndBasilChickenSalad.md) (Low Carb, Chicken, Untried)
+- [Parmesan Mayonnaise Chicken](MainDish/ParmesanMayonnaiseChicken.md)
 
 ## Side Dishes
 - [Cauliflower Rice](SideDish/CauliflowerRice.md) (Cauliflower, Untried)
