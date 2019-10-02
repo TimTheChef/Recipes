@@ -1,6 +1,6 @@
 # Spinach Stuffed Chicken Breasts
 
-![](Images/SpinachStuffedChickenBreasts001.jpg "Spinach Stuffed Chicken Breasts")
+![](Images/SpinachStuffedChickenBreasts001.gif "Spinach Stuffed Chicken Breasts")
 
 ## Ingredients
 - 3 chicken breasts
