@@ -1,5 +1,7 @@
 # Recipes
 
+## [Low Carb Recipes](LowCarbRecipes.md)
+
 ## Main Dishes
 - [Baked Cajun Chicken Breasts](MainDish/BakedCajunChickenBreasts.md) (Low Carb, Chicken, Untried)
 - [BBQ Chicken Biscuit Sandwiches](MainDish/BBQChickenBiscuitSandwiches.md) (Chicken)
@@ -22,7 +24,7 @@
 - [Spinach Stuffed Chicken Breasts](MainDish/SpinachStuffedChickenBreasts.md) (Low Carb, Chicken)
 
 ## Side Dishes
-- [Cauliflower Rice](SideDish/CauliflowerRice.md) (Cauliflower, Untried)
+- [Cauliflower Rice](SideDish/CauliflowerRice.md) (Low Carb, Cauliflower, Untried)
 - [Corn Dip](SideDish/CornDip.md) (Corn, Untried)
 - [Orange Spice Glazed Carrots](SideDish/OrangeSpiceGlazedCarrots.md) (Carrots)
 
@@ -37,10 +39,7 @@
 ## Fondue
 - [Bourbon Bacon Cheddar Fondue](Fondue/BourbonBaconCheddarFondue.md) (Bacon, Cheddar, Untried)
 - [Cheddar Fondue](Fondue/CheddarFondue.md) (Cheddar)
-- [Court Bouillon Cooking Style](Fondue/CourtBouillonCookingStyle.md) (Broth, Untried)
+- [Court Bouillon Cooking Style](Fondue/CourtBouillonCookingStyle.md) (Low Carb, Broth, Untried)
 
 ## Drinks
-- [Chai Tea](Drink/) (Tea, Untried)
-
-# Links
-- [Best Low Carb Dishes](https://www.ibreatheimhungry.com/65-best-low-carb-chicken-recipes/)
+- [Chai Tea](Drink/ChaiTea.md) (Tea, Untried)
