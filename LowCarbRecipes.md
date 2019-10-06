@@ -6,6 +6,7 @@
 - [Chicken Veggie Soup](MainDish/ChickenVeggieSoup.md) (Low Carb, Chicken, Soup)
 - [Chicken With Lemon Garlic Cream Sauce](MainDish/ChickenWithLemonGarlicCreamSauce.md) (Low Carb, Chicken, Untried)
 - [Dill Chicken Salad](MainDish/DillChickenSalad.md) (Low Carb, Chicken, Untried)
+- [Low Carb Pizza Crust](MainDish/LowCarbPizzaCrust.md) (Low Carb, Almond Flour)
 - [No Bean Chili](MainDish/NoBeanChili.md) (Low Carb, Beef)
 - [Parmesan And Basil MainDish Salad](MainDish/ParmesanAndBasilChickenSalad.md) (Low Carb, Chicken, Untried)
 - [Pickle Brined Fried Chicken](MainDish/PickleBrinedFriedChicken.md) (Low Carb, Chicken, Untried)
