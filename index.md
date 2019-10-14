@@ -14,6 +14,7 @@
 - [Dill Chicken Salad](MainDish/DillChickenSalad.md) (Low Carb, Chicken, Untried)
 - [Firecracker Casserole](MainDish/FirecrackerCasserole.md) (Beef, Cheddar, Untried)
 - [Gnocchi With Sage Butter Sauce](MainDish/GnocchiWithSageButterSauce.md) (Potato, Untried)
+- [Italian Chicken](MainDish/ItalianChicken.md) (Low Carb, Chicken, Untried)
 - [Italian Sausage Cheese Balls](MainDish/ItalianSausageCheeseBalls.md) (Sausage, Untried)
 - [Low Carb Pizza Crust](MainDish/LowCarbPizzaCrust.md) (Low Carb, Almond Flour)
 - [Meatballs](MainDish/Meatballs.md) (Beef)
@@ -34,7 +35,7 @@
 - [Orange Spice Glazed Carrots](SideDish/OrangeSpiceGlazedCarrots.md) (Carrots)
 
 ## Sauce
-- [Alfredo Sauce](Sauce/AlfredoSauce.md) (Heavy Cream, Untried)
+- [Alfredo Sauce](Sauce/AlfredoSauce.md) (Low Carb, Heavy Cream, Untried)
 
 ## Dessert
 - [Chocolate Chip Cookies](Dessert/ChocolateChipCookies.md) (Cookie)
