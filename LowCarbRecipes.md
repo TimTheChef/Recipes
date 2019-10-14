@@ -2,7 +2,7 @@
 
 ## Main Dishes
 - [Baked Cajun Chicken Breasts](MainDish/BakedCajunChickenBreasts.md) (Low Carb, Chicken, Untried)
-- [Chicken Pot Pie](ChickenPotPie.md) (Low Carb, Chicken, Untried)
+- [Chicken Pot Pie](MainDish/ChickenPotPie.md) (Low Carb, Chicken, Untried)
 - [Chicken Veggie Soup](MainDish/ChickenVeggieSoup.md) (Low Carb, Chicken, Soup)
 - [Chicken With Lemon Garlic Cream Sauce](MainDish/ChickenWithLemonGarlicCreamSauce.md) (Low Carb, Chicken, Untried)
 - [Dill Chicken Salad](MainDish/DillChickenSalad.md) (Low Carb, Chicken, Untried)
@@ -14,6 +14,9 @@
 
 ## Side Dishes
 - [Cauliflower Rice](SideDish/CauliflowerRice.md) (Low Carb, Cauliflower, Untried)
+
+## Sauce
+- [Alfredo Sauce](Sauce/AlfredoSauce.md) (Heavy Cream, Untried)
 
 ## Fondue
 - [Court Bouillon Cooking Style](Fondue/CourtBouillonCookingStyle.md) (Low Carb, Broth, Untried)

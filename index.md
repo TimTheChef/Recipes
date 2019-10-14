@@ -8,7 +8,7 @@
 - [Beef Stroganoff](MainDish/BeefStroganoff.md) (Beef, Untried)
 - [Beef Stroganoff, Instapot](MainDish/BeefStroganoffInstapot.md) (Instapod, Beef)
 - [Blue Bayou Gumbo](MainDish/BlueBayouGumbo.md) (Large Quanity, Chicken, Disneyland)
-- [Chicken Pot Pie](ChickenPotPie.md) (Low Carb, Chicken, Untried)
+- [Chicken Pot Pie](MainDish/ChickenPotPie.md) (Low Carb, Chicken, Untried)
 - [Chicken Veggie Soup](MainDish/ChickenVeggieSoup.md) (Low Carb, Chicken, Soup)
 - [Chicken With Lemon Garlic Cream Sauce](MainDish/ChickenWithLemonGarlicCreamSauce.md) (Low Carb, Chicken, Untried)
 - [Dill Chicken Salad](MainDish/DillChickenSalad.md) (Low Carb, Chicken, Untried)
@@ -32,6 +32,9 @@
 - [Cauliflower Rice](SideDish/CauliflowerRice.md) (Low Carb, Cauliflower, Untried)
 - [Corn Dip](SideDish/CornDip.md) (Corn, Untried)
 - [Orange Spice Glazed Carrots](SideDish/OrangeSpiceGlazedCarrots.md) (Carrots)
+
+## Sauce
+- [Alfredo Sauce](Sauce/AlfredoSauce.md) (Heavy Cream, Untried)
 
 ## Dessert
 - [Chocolate Chip Cookies](Dessert/ChocolateChipCookies.md) (Cookie)
