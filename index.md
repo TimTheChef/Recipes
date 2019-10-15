@@ -3,6 +3,7 @@
 ## [Low Carb Recipes](LowCarbRecipes.md)
 
 ## Main Dishes
+- [Bacon Cheeseburger Casserole](MainDish/BaconCheeseburgerCasserole.md) (Low Carb, Bacon, Cheese, Ground Beef, Untried)
 - [Baked Cajun Chicken Breasts](MainDish/BakedCajunChickenBreasts.md) (Low Carb, Chicken, Untried)
 - [BBQ Chicken Biscuit Sandwiches](MainDish/BBQChickenBiscuitSandwiches.md) (Chicken)
 - [Beef Stroganoff](MainDish/BeefStroganoff.md) (Beef, Untried)
