@@ -1,5 +1,7 @@
 # Italian Chicken
 
+![](../Sauce/Images/AlfredoSauce.gif)
+
 ## Ingredients
 - 4 large Chicken breast
 - 2 tbsp Sea salt

@@ -7,7 +7,7 @@
 - [Chicken With Lemon Garlic Cream Sauce](MainDish/ChickenWithLemonGarlicCreamSauce.md) (Low Carb, Chicken, Untried)
 - [Dill Chicken Salad](MainDish/DillChickenSalad.md) (Low Carb, Chicken, Untried)
 - [Low Carb Pizza Crust](MainDish/LowCarbPizzaCrust.md) (Low Carb, Almond Flour)
-- [Italian Chicken](MainDish/ItalianChicken.md) (Low Carb, Chicken, Untried)
+- [Italian Chicken](MainDish/ItalianChicken.md) (Low Carb, Chicken)
 - [No Bean Chili](MainDish/NoBeanChili.md) (Low Carb, Beef)
 - [Parmesan And Basil MainDish Salad](MainDish/ParmesanAndBasilChickenSalad.md) (Low Carb, Chicken, Untried)
 - [Pickle Brined Fried Chicken](MainDish/PickleBrinedFriedChicken.md) (Low Carb, Chicken, Untried)
@@ -17,7 +17,7 @@
 - [Cauliflower Rice](SideDish/CauliflowerRice.md) (Low Carb, Cauliflower, Untried)
 
 ## Sauce
-- [Alfredo Sauce](Sauce/AlfredoSauce.md) (Heavy Cream, Untried)
+- [Alfredo Sauce](Sauce/AlfredoSauce.md) (Low Carb, Heavy Cream)
 
 ## Fondue
 - [Court Bouillon Cooking Style](Fondue/CourtBouillonCookingStyle.md) (Low Carb, Broth, Untried)

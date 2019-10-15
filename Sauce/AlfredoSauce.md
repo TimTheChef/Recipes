@@ -1,5 +1,7 @@
 # Alfredo Sauce
 
+![](Images/AlfredoSauce.gif)
+
 ## Ingredients
 - 1 tbsp Butter
 - 6 cloves Garlic (minced)
@@ -15,4 +17,4 @@
 1. Reduce heat to low. Gradually whisk in the Parmesan cheese. Keep whisking over low heat, until smooth. If using nutmeg, sea salt, and/or black pepper, stir those in, to taste. (If sauce is thicker than you like, you can thin it out with more cream.)
 
 ---
-[Home](../)
+[Home](../)Ima
