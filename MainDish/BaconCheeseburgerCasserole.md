@@ -28,7 +28,5 @@
 1. Top with the cheddar cheese.
 1. Bake at 350 degrees for 30 minutes or until set and golden on top. Sprinkle with dill before serving.
 
-
-
 ---
 [Home](../)

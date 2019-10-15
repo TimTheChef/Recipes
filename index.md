@@ -13,6 +13,7 @@
 - [Chicken Veggie Soup](MainDish/ChickenVeggieSoup.md) (Low Carb, Chicken, Soup)
 - [Chicken With Lemon Garlic Cream Sauce](MainDish/ChickenWithLemonGarlicCreamSauce.md) (Low Carb, Chicken, Untried)
 - [Dill Chicken Salad](MainDish/DillChickenSalad.md) (Low Carb, Chicken, Untried)
+- [Enchilada Zucchini](MainDish/EnchiladaZucchini.md) (Low Carb, Zucchini, Ground Beef, Untried)
 - [Firecracker Casserole](MainDish/FirecrackerCasserole.md) (Beef, Cheddar, Untried)
 - [Gnocchi With Sage Butter Sauce](MainDish/GnocchiWithSageButterSauce.md) (Potato, Untried)
 - [Italian Chicken](MainDish/ItalianChicken.md) (Low Carb, Chicken)
