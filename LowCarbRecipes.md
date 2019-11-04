@@ -1,7 +1,8 @@
 # Low Carb Recipes
 
 ## Main Dishes
-- [Bacon Cheeseburger Casserole](MainDish/BaconCheeseburgerCasserole.md) (Low Carb, Bacon, Cheese, Ground Beef, Untried)
+- [Bacon Cheeseburger Casserole](MainDish/BaconCheeseburgerCasserole.md) (Low Carb, Bacon, Cheese, Ground Beef)
+- [Bacon Cheeseburger Soup](MainDish/BaconCheeseburgerSoup.md) (Low Carb, Bacon, Cheese, Ground Beef)
 - [Baked Cajun Chicken Breasts](MainDish/BakedCajunChickenBreasts.md) (Low Carb, Chicken, Untried)
 - [Chicken Pot Pie](MainDish/ChickenPotPie.md) (Low Carb, Chicken, Untried)
 - [Chicken Veggie Soup](MainDish/ChickenVeggieSoup.md) (Low Carb, Chicken, Soup)
